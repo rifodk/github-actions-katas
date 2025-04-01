@@ -1,4 +1,4 @@
-name: Main workflow
+name: Second action using unit test
 on:
   workflow_dispatch:
 jobs:
